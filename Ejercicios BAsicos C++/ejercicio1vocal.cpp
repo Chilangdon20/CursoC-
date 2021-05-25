@@ -1,7 +1,8 @@
 /*
 
 
-
+Programa que le la entrada estandar de un caracter e indica en la salida
+estandar si este es minuscula o no
 
 */
 #include "iostream"
